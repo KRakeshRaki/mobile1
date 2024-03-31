@@ -27,7 +27,7 @@ cd bob
 5. Clone the repository:
 
 ```
- git clone https://github.com/KRakeshRaki/demo.git
+ git clone https://github.com/KRakeshRaki/mobile1.git
 
  ```
 
